@@ -8,9 +8,9 @@
 
 ### Some Works
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tp0t-Team&repo=Tp0tOJ&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tp0t-Team&repo=Tp0tOJ&theme=algolia)](https://github.com/Tp0t-Team/Tp0tOJ)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LordCasser&repo=Proof-of-Work&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LordCasser&repo=Proof-of-Work&theme=algolia)](https://github.com/LordCasser/Proof-of-Work)
 <!-- 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Script-OS&repo=Theseus&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
  -->
